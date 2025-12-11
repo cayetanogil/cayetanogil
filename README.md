@@ -10,7 +10,7 @@ Based in the beautiful Pacific Northwest 🌲
 
 ### 🔭 Current & recent work
 
-- Front-End Engineer (contract) collaborating with marketing and web pods teams at **Rula**
+- Front-End Engineer (contract) collaborating with marketing and web pods at **Rula**
 - Previously **Adpearance**, **Unravel Data**, **Boxfish**
 
 More context on my work and background: **[cay.dev](https://cay.dev)**
