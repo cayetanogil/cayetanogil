@@ -23,14 +23,13 @@ More context on my work and background: **[cay.dev](https://cay.dev)**
 
 Daily geo-guessing game where you guess where a monster is hiding against a famous landmark backdrop.  
 Built with **Next.js, TypeScript, Leaflet, Tailwind, Convex, Clerk**.  
-👉 Live: https://monstersworld.vercel.app  
-👉 Code: https://github.com/cayetanogil/monstersworld
+[Live](https://monstersworld.vercel.app) · [Code](https://github.com/cayetanogil/monstersworld)
 
 **Crypto Dashboard**  
 
 Dashboard showcasing real-time crypto data with charts, favorites, and a collection view.  
 Built with **React, TypeScript, Vite, Redux Toolkit, Tailwind, shadcn/ui, Recharts**.  
-👉 Code: https://github.com/cayetanogil/24-crypto-dashboard
+[Code](https://github.com/cayetanogil/24-crypto-dashboard)
 
 ---
 
@@ -41,4 +40,4 @@ Built with **React, TypeScript, Vite, Redux Toolkit, Tailwind, shadcn/ui, Rechar
 - **Styling:** Tailwind CSS, CSS Modules, Sass
 - **Content & marketing:** Storyblok, WordPress, SEO & analytics tools
 
-If you want to chat about front-end, UI, or interesting web projects, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cayetanogil) or my site 👉 [cay.dev](https://cay.dev).
+If you want to chat about front-end, UI, or interesting web projects, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/cayetanogil) or my personal site [cay.dev](https://cay.dev).
