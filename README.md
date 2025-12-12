@@ -28,7 +28,7 @@ Built with **Next.js, TypeScript, Leaflet, Tailwind, Convex, Clerk**.
 **Crypto Dashboard**  
 
 Dashboard showcasing real-time crypto data with charts, favorites, and a collection view.  
-Built with **React, TypeScript, Vite, Redux Toolkit, Tailwind, shadcn/ui, Recharts**.
+Built with **React, TypeScript, Vite, Redux Toolkit, Tailwind, shadcn/ui, Recharts**.  
 [Live](https://24-crypto-dashboard.netlify.app/) · [Code](https://github.com/cayetanogil/24-crypto-dashboard)
 
 ---
